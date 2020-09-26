@@ -7,6 +7,11 @@ First, you will create a Shiny application and deploy it on Rstudio's servers.
  
  ### Shiny app here:
  
+ https://doaa-elbanna.shinyapps.io/project/
  
- ### Pitch Presentation:
+ 
+ ### Pitch Presentation on Rpubs:
+ https://rpubs.com/Doaa_elbanna/666447
+ 
+ 
 
