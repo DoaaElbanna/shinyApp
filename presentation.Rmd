@@ -1,0 +1,38 @@
+---
+title: "Iris k-means cluster"
+width: 1440
+height: 900
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Data Set Information
+  iris data set gives the measurements
+  in centimeters of the variables sepal length and width and petal length 
+  and width, respectively, for 50 flowers from each of 3 species of iris. 
+  
+## The idea of the project:
+  defines an application that will compute k-means clusters of the Iris data, 
+  allowing the user which features to use for the clustering and how many clusters to use.
+  
+## Sample of Data used:
+```{r, echo=TRUE}
+head(iris)
+```
+
+## K-means Cluster:
+- K-Means is one of the most popular "clustering" algorithms
+- K-means stores $k$ centroids that it uses to define clusters. 
+- A point is considered to be in a particular cluster if it is closer to that cluster's centroid than any other centroid.
+ 
+ **you can the the code of project here:**
+ 
+ [https://doaa-elbanna.shinyapps.io/project/]
+ 
+ **The all files on Github repo:**
+ [https://github.com/DoaaElbanna/shinyApp]
+ 
+
